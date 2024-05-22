@@ -6,18 +6,12 @@
 </h1>
 
 
-<h3 align="center">A Mobile Application Developer from **EGYPT**</h3>
+<h3 align="center">A Mobile Application Developer from EGYPT</h3>
 
 <br/>
 
-<div align="center">
- 
- **2023**, graduated experienced Mobile App Developer skilled in developing and delivering high-quality native Android
-applications. Proficient in multiple programming languages, including Kotlin, Java and Dart. Strong problem-solving
-abilities and a passion for creating intuitive user experiences. Collaborative team player with a track record of
-delivering projects on time and within budget.
-
-
+<div>
+Welcome to my GitHub profile where I share my projects, collaborate with others, and contribute to open-source software.
  </div>
  
 <div align="center"> 
