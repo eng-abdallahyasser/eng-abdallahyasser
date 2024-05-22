@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=48&duration=3500&pause=1000&center=true&random=false&width=500&height=80&lines=Hi+There!+%F0%9F%91%8B;Welcome+To+My+Profile+%F0%9F%A4%97;It's+Me%2C+Abdallah+Yasser"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3500&pause=1000&center=true&random=false&width=500&height=80&lines=Hi+There!+%F0%9F%91%8B;Welcome+To+My+Profile+%F0%9F%A4%97;It's+Me%2C+Abdallah+Yasser" /></a>
 </h1>
 
 
