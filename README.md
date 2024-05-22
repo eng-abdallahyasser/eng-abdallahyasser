@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eng-abdallahyasser.eng-abdallahyasser" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bigelow+Rules&size=40&duration=3000&pause=2000&random=false&width=435&lines=welcome+to+my+profile" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bigelow+Rules&size=40&duration=3000&pause=2000&random=false&width=435&lines=welcome+to+my+profile" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
