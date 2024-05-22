@@ -1,10 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eng-abdallahyasser.eng-abdallahyasser" />
 
-
+<dev>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3500&pause=1000&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;Welcome+To+My+Profile+%F0%9F%A4%97;It's+Me%2C+Abdallah+Yasser" alt="Typing SVG" /></a>
 </a>
 </h1>
+</dev>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
