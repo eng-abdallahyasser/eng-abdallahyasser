@@ -12,13 +12,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ **2023**, graduated experienced Mobile App Developer skilled in developing and delivering high-quality native Android
+applications. Proficient in multiple programming languages, including Kotlin, Java and Dart. Strong problem-solving
+abilities and a passion for creating intuitive user experiences. Collaborative team player with a track record of
+delivering projects on time and within budget.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
