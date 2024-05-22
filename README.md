@@ -2,6 +2,8 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bigelow+Rules&size=40&duration=3000&pause=2000&random=false&width=435&lines=welcome+to+my+profile" alt="Typing SVG" /></a>
+</h1>
+<h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bigelow+Rules&size=40&duration=3000&pause=2000&random=false&width=435&lines=welcome+to+my+profile" alt="Typing SVG" /></a>
 </h1>
 
