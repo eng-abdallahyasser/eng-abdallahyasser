@@ -10,13 +10,6 @@
 
 <br/>
 
-- 🌱 I’m currently learning [Your Current Learning Focus].
-- 👯 I’m looking to collaborate on [Projects/Areas You Want to Collaborate On].
-- 🤔 I’m looking for help with [Areas Where You Need Help].
-- 💬 Ask me about [Your Areas of Expertise].
-- 📫 How to reach me: [Your Email Address or Other Contact Info].
-- ⚡ Fun fact: [A Fun Fact About You].
-
  <!--
 <div align="center"> 
   <a href="mailto:abdallahyasser1277@gmail.com">
