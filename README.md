@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/abdallah-yasser-30a1681a1/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="60" height="60"/>
   </a>
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
