@@ -26,7 +26,7 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="60" height="60"/>
   </a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.icons8.com/?size=100&id=13955&format=png&color=ffffff" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" width="60" height="60 target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
