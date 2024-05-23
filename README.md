@@ -17,7 +17,7 @@
 - 📫 How to reach me: [Your Email Address or Other Contact Info].
 - ⚡ Fun fact: [A Fun Fact About You].
 
- 
+ <!--
 <div align="center"> 
   <a href="mailto:abdallahyasser1277@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=X0mEIh0RyDdL&format=png&color=000000" width="60" height="60" />
@@ -26,7 +26,7 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="60" height="60"/>
   </a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" width="60" height="60 target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" width="60" height="60 target="_blank" />  
   </a>
 </div>
 
@@ -71,4 +71,4 @@
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<br/>
+<br/>-->
