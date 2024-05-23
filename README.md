@@ -26,7 +26,7 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="60" height="60"/>
   </a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.icons8.com/?size=100&id=13955&format=png&color=ff0000" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.icons8.com/?size=100&id=13955&format=png&color=ffffff" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
