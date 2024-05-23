@@ -10,18 +10,13 @@
 
 <br/>
 
-<div align="center">
+- 🌱 I’m currently learning [Your Current Learning Focus].
+- 👯 I’m looking to collaborate on [Projects/Areas You Want to Collaborate On].
+- 🤔 I’m looking for help with [Areas Where You Need Help].
+- 💬 Ask me about [Your Areas of Expertise].
+- 📫 How to reach me: [Your Email Address or Other Contact Info].
+- ⚡ Fun fact: [A Fun Fact About You].
 
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
  
 <div align="center"> 
   <a href="mailto:abdallahyasser1277@gmail.com">
